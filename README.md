@@ -7,3 +7,5 @@ This is a little predictive model.
 - [EDA](eda.ipynb)
 - [Model](model.ipynb)
 - [Summary](summary.ipynb)
+
+- Open in colab: ![https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/jfkoehler/oneleague_test/blob/main/eda.ipynb)
